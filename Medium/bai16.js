@@ -1,11 +1,8 @@
 function fibonacci(number){
-
   var number0 = 0;
   var number1 = 1;
   var numberN = 1;
-
   var number = parseInt(number);
-
   if(number == 0 || number == 1){
     console.log(number); 
   }else{
